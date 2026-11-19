@@ -35,3 +35,10 @@ Cada puesto (Radar, Escudo, Pluma, Micrófono, Corte, Lienzo, Calidad, Cifras, E
 Mateo quiere, si el canal gana audiencia, vender o recomendar productos (audífonos, celulares, computadores, juegos) por afiliados y luego dropshipping. Por ahora el foco es monetizar los videos. Detalle y riesgos en el Drive: «Estrategia 08». Separado de NERO Clothing. Escudo investiga lo legal antes de empezar.
 ## Carruseles
 Plantilla en produccion/motion/carrusel/. Orden de Mateo: que no se vean genéricos: concepto visual propio por carrusel, datos y gráficas reales, variar diseños, la mascota Rayo con expresiones y poses distintas. Se publican como POST de Instagram (varias imágenes) además de los 3 videos diarios.
+
+## Entregables DIARIOS (orden de Mateo, 2026-11-19)
+Cada día: 3 videos (61-75 s) + 1 carrusel de Instagram (plantilla produccion/motion/carrusel/) + 2-3 historias de Instagram. Historias: imagen 1080x1920 (se puede armar con ffmpeg a partir de una slide del carrusel sobre fondo desenfocado, ver dia1/historias/), programadas en Metricool con instagramData.type = "STORY" y text vacío. Horas orientativas (Bogotá): historias 18:00 y 22:00; carrusel 17:00; videos 14:00, 19:00, 21:00.
+## Seguimiento de números
+Metricool: getAnalyticsDataByMetrics con ids TikTok TKPO02,03,07,08,09,10,11,13,15 y YouTube YTVP02,05,06,08,09,11,17. El 19-nov-2026, una hora después de publicar, devolvía vacío (sin sincronizar): reintentar a las 24 h. Contrastar con lo que Mateo ve en las apps.
+## Imágenes
+Nada de carátulas, personajes ni capturas de GTA sin licencia verificada. Pexels/Pixabay (licencia gratuita) solo para imágenes genéricas (mandos, consolas, gente jugando); la API requería clave y no funcionó con clave ficticia el 19-nov.
