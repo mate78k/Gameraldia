@@ -17,3 +17,13 @@ Canal de noticias y clips gamer en español (YouTube Shorts, TikTok, Instagram R
 - Los MP4 se suben a `mate78k/Gameraldia` (carpeta del día, ej. `dia2/`) y se usa la URL `https://raw.githubusercontent.com/mate78k/Gameraldia/main/<carpeta>/<archivo>.mp4` en Metricool.
 - Duración: 30-50 s en Shorts/Reels; Escudo decide si alargar a más de 60 s para TikTok Creator Rewards (necesita 10.000 seguidores).
 - Nunca pedir ni guardar contraseñas ni cookies.
+
+## Voz oficial desde 2026-11-20 (elegida por Mateo): Nacho (Inworld) vía Speko
+- Herramienta: conector Speko, `audio_synthesize` con body: `{"text": ..., "intent": {"language": "es-MX", "optimizeFor": "quality"}, "voice": "Nacho", "instructions": "Voz joven, energética y emocionada, como un streamer gamer narrando noticias de última hora, con ritmo rápido y entusiasmo.", "constraints": {"allowedProviders": {"tts": ["inworld"]}}, "spokenForm": true}`.
+- La respuesta es muy grande: el cliente guarda el resultado en un archivo; el texto de ese archivo dice «saved to <ruta>.wav». Convertir con ffmpeg. Máximo ~2.000 caracteres por llamada (Inworld); dividir el guion por frases/párrafos y unir.
+- Nacho habla muy rápido (~213 palabras/min): el guion debe ser MÁS LARGO para que el video dure 61-75 s (más datos, comparativas, ejemplos, contexto), nunca estirar con silencios.
+- Crédito de Speko: 5 USD gratis al 2026-11-19 (cada minuto de Inworld ~0,0225 USD). Si se acaba, avisar a Mateo.
+- Licencia comercial de esta voz: SUPUESTO sin verificar en los términos de Speko/Inworld: Escudo debe revisarla antes de monetizar.
+- Voz anterior (Supertonic) queda solo como respaldo si Speko falla.
+## Estilo visual
+Edición animada tipo motion (plantilla Remotion), con la paleta atardecer neón GTA (azul noche #1B1F5E, púrpura #7A2BB8, magenta #EE00DD, rosa #FF5FA2, naranja #FF8A3D, dorado #FFC857) para que se note que hablamos de GTA 6, sin logo ni arte oficial.
