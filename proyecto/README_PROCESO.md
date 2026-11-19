@@ -15,7 +15,7 @@ Canal de noticias y clips gamer en español (YouTube Shorts, TikTok, Instagram R
 - Solo se programa un video si: datos verificados el mismo día con fuente; Calidad PASA (voz con Whisper vs guion, volumen voz -14 LUFS, música 15-20 dB debajo, 9:16, tildes); Escudo da visto bueno; con marca de contenido generado con IA; sin metraje, música ni arte de editores sin permiso (nada de carátulas ni personajes de GTA).
 - Si algo falla: corregir con el equipo; si no se puede, NO publicar y avisar a Mateo.
 - Los MP4 se suben a `mate78k/Gameraldia` (carpeta del día, ej. `dia2/`) y se usa la URL `https://raw.githubusercontent.com/mate78k/Gameraldia/main/<carpeta>/<archivo>.mp4` en Metricool.
-- Duración: 30-50 s en Shorts/Reels; Escudo decide si alargar a más de 60 s para TikTok Creator Rewards (necesita 10.000 seguidores).
+- Duración (orden de Mateo): 61-75 s en todos los videos (TikTok Creator Rewards exige más de 60 s; necesita 10.000 seguidores). Escudo verifica cada día las duraciones máximas y la que mejor monetiza.
 - Nunca pedir ni guardar contraseñas ni cookies.
 
 ## Voz oficial desde 2026-11-20 (elegida por Mateo): Nacho (Inworld) vía Speko
