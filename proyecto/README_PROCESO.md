@@ -1,0 +1,19 @@
+# Gamer al Día: proceso de producción diaria (3 videos por día)
+
+Canal de noticias y clips gamer en español (YouTube Shorts, TikTok, Instagram Reels). Proyecto de Mateo, SEPARADO de NERO Clothing. Este repositorio es público y solo guarda videos y el código de producción. La memoria y las reglas están en el Drive «Gaming y YouTube» (leer primero «00 LEEME - Índice y reglas»).
+
+## Reconstruir el entorno en una sesión nueva
+1. `pip install sherpa-onnx==1.12.40 pyloudnorm pillow numpy` (usar `python3 -I`). La 2.0.x falla.
+2. Modelo de voz Supertonic 3 (hombre, sid 7, velocidad 0,90): `https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/sherpa-onnx-supertonic-3-tts-int8-2026-05-11.tar.bz2` (GitHub releases sí se puede descargar; Hugging Face está bloqueado). Whisper-small int8 para control de calidad: buscar en los releases `asr-models` del mismo repositorio.
+3. Música y fondos de Mixkit (licencia gratuita): URLs en `fuentes.md`, sección 2. Guardarlas en `proyecto/produccion/stock/` (NO se suben al repositorio).
+4. Fuentes Anton y Barlow Condensed (OFL) están en `produccion/fuentes/`.
+5. Scripts: `produccion/render.py` (`--voz3` renderiza con la voz), `voz_v3.py`, `qc_v3.py`, `asr_v3.py`. Los datos de cada video están en `guiones_data.py`. Las rutas base están en `render.py` (BASE) y deben ajustarse al entorno nuevo.
+
+## Reglas para publicar solo (autorizado por Mateo el 2026-11-19)
+- 3 videos al día, TikTok + YouTube + Instagram, por Metricool (blogId 8094347, zona America/Bogota).
+- Horas iniciales (Bogotá): 14:00, 19:00, 21:00; ajustar con datos propios (Cifras) desde la semana 2.
+- Solo se programa un video si: datos verificados el mismo día con fuente; Calidad PASA (voz con Whisper vs guion, volumen voz -14 LUFS, música 15-20 dB debajo, 9:16, tildes); Escudo da visto bueno; con marca de contenido generado con IA; sin metraje, música ni arte de editores sin permiso (nada de carátulas ni personajes de GTA).
+- Si algo falla: corregir con el equipo; si no se puede, NO publicar y avisar a Mateo.
+- Los MP4 se suben a `mate78k/Gameraldia` (carpeta del día, ej. `dia2/`) y se usa la URL `https://raw.githubusercontent.com/mate78k/Gameraldia/main/<carpeta>/<archivo>.mp4` en Metricool.
+- Duración: 30-50 s en Shorts/Reels; Escudo decide si alargar a más de 60 s para TikTok Creator Rewards (necesita 10.000 seguidores).
+- Nunca pedir ni guardar contraseñas ni cookies.
