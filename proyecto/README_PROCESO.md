@@ -30,3 +30,8 @@ Edición animada tipo motion (plantilla Remotion), con la paleta atardecer neón
 
 ## Cultura de mejora continua (orden de Mateo, 2026-11-19)
 Cada puesto (Radar, Escudo, Pluma, Micrófono, Corte, Lienzo, Calidad, Cifras, Eco, Publicador, Planificador) investiga algo nuevo cada día y deja una lección de una línea en la bitácora del Drive; Cifras presenta cada mañana los números de ayer (Metricool) y el jefe (la sesión principal de Claude) consolida y decide. Escudo revisa políticas y licencias cada día. Descripciones: gancho en la primera línea, 3 datos con ✅, pregunta a la audiencia, invitación a seguir, fuentes, aviso de voz generada por IA, 3-8 hashtags (YouTube 3-6, TikTok 4-5, Instagram 6-8).
+
+## Plan futuro (fase 2, NO activo): venta de tecnología y gaming
+Mateo quiere, si el canal gana audiencia, vender o recomendar productos (audífonos, celulares, computadores, juegos) por afiliados y luego dropshipping. Por ahora el foco es monetizar los videos. Detalle y riesgos en el Drive: «Estrategia 08». Separado de NERO Clothing. Escudo investiga lo legal antes de empezar.
+## Carruseles
+Plantilla en produccion/motion/carrusel/. Orden de Mateo: que no se vean genéricos: concepto visual propio por carrusel, datos y gráficas reales, variar diseños, la mascota Rayo con expresiones y poses distintas. Se publican como POST de Instagram (varias imágenes) además de los 3 videos diarios.
