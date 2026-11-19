@@ -27,3 +27,6 @@ Canal de noticias y clips gamer en español (YouTube Shorts, TikTok, Instagram R
 - Voz anterior (Supertonic) queda solo como respaldo si Speko falla.
 ## Estilo visual
 Edición animada tipo motion (plantilla Remotion), con la paleta atardecer neón GTA (azul noche #1B1F5E, púrpura #7A2BB8, magenta #EE00DD, rosa #FF5FA2, naranja #FF8A3D, dorado #FFC857) para que se note que hablamos de GTA 6, sin logo ni arte oficial.
+
+## Cultura de mejora continua (orden de Mateo, 2026-11-19)
+Cada puesto (Radar, Escudo, Pluma, Micrófono, Corte, Lienzo, Calidad, Cifras, Eco, Publicador, Planificador) investiga algo nuevo cada día y deja una lección de una línea en la bitácora del Drive; Cifras presenta cada mañana los números de ayer (Metricool) y el jefe (la sesión principal de Claude) consolida y decide. Escudo revisa políticas y licencias cada día. Descripciones: gancho en la primera línea, 3 datos con ✅, pregunta a la audiencia, invitación a seguir, fuentes, aviso de voz generada por IA, 3-8 hashtags (YouTube 3-6, TikTok 4-5, Instagram 6-8).
