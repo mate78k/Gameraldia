@@ -42,3 +42,7 @@ Cada día: 3 videos (61-75 s) + 1 carrusel de Instagram (plantilla produccion/mo
 Metricool: getAnalyticsDataByMetrics con ids TikTok TKPO02,03,07,08,09,10,11,13,15 y YouTube YTVP02,05,06,08,09,11,17. El 19-nov-2026, una hora después de publicar, devolvía vacío (sin sincronizar): reintentar a las 24 h. Contrastar con lo que Mateo ve en las apps.
 ## Imágenes
 Nada de carátulas, personajes ni capturas de GTA sin licencia verificada. Pexels/Pixabay (licencia gratuita) solo para imágenes genéricas (mandos, consolas, gente jugando); la API requería clave y no funcionó con clave ficticia el 19-nov.
+
+## Cola de ideas (actualizada 2026-11-19)
+- Día 2 (aprobado por Mateo): video «GTA 5 vs GTA 6: canciones» al estilo versus por rondas con marcador animado, SIN gameplay y SIN audio de canciones (solo títulos y artistas como texto); Radar debe verificar primero la lista oficial de canciones de GTA 6 con fuentes (Rockstar y prensa). Encuesta en historias. Ver Drive «Ref 07».
+- Línea comercial (Mateo quiere empezar ya): investigación de afiliados/dropshipping en curso; no publicar enlaces de venta ni productos hasta que Escudo confirme lo legal y Mateo apruebe. Detalle en Drive «Estrategia 08/09».
