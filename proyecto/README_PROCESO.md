@@ -53,3 +53,4 @@ Nada de carátulas, personajes ni capturas de GTA sin licencia verificada. Pexel
 - Mercado: SOLO Colombia hasta enero de 2027. Otros países (México, Perú, España, EE. UU.) se evalúan en enero con las analíticas de audiencia por país.
 - Proveedores: Dropi y Tecnología Mayorista; Mastershop descartado; Alibaba/1688 fase 2; videojuegos solo originales y legales.
 - Pauta pagada desde el 1-dic; Mateo activa los anuncios (con Meta Ads solo leer/preparar). Sin réplicas de marcas.
+- Estrategia de canales (Mateo, 2026-11-20): TikTok y YouTube = atraer público; Instagram y Facebook = vender (catálogo/WhatsApp y, desde el 1-dic, anuncios de Meta). Herramientas: solo planes gratuitos (conector de anuncios Adspirer en plan Free, 15 acciones/mes; sin pagos ni upgrades sin aprobación de Mateo).
