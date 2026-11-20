@@ -1,4 +1,4 @@
-# Gamer al Día: proceso de producción diaria (3 videos por día)
+# Gamer al Día: proceso de producción diaria (4 videos por día)
 
 Canal de noticias y clips gamer en español (YouTube Shorts, TikTok, Instagram Reels). Proyecto de Mateo, SEPARADO de NERO Clothing. Este repositorio es público y solo guarda videos y el código de producción. La memoria y las reglas están en el Drive «Gaming y YouTube» (leer primero «00 LEEME - Índice y reglas»).
 
@@ -46,3 +46,10 @@ Nada de carátulas, personajes ni capturas de GTA sin licencia verificada. Pexel
 ## Cola de ideas (actualizada 2026-11-19)
 - Día 2 (aprobado por Mateo): video «GTA 5 vs GTA 6: canciones» al estilo versus por rondas con marcador animado, SIN gameplay y SIN audio de canciones (solo títulos y artistas como texto); Radar debe verificar primero la lista oficial de canciones de GTA 6 con fuentes (Rockstar y prensa). Encuesta en historias. Ver Drive «Ref 07».
 - Línea comercial (Mateo quiere empezar ya): investigación de afiliados/dropshipping en curso; no publicar enlaces de venta ni productos hasta que Escudo confirme lo legal y Mateo apruebe. Detalle en Drive «Estrategia 08/09».
+
+## Decisiones vigentes de Mateo (actualizado 2026-11-20)
+- Entregables diarios: 4 videos de noticias/clips (12:00, 15:00, 19:00, 21:00), carrusel 17:00, historias 18:00 y 22:00. NO se modifican.
+- Tarea nueva diaria: 2 videos de producto de Dropi (13:30 y 16:30) + historia 20:00. Divulgación publicitaria, sin precios ni enlaces de venta hasta que Mateo apruebe precios y compra de prueba (aún NO autorizada). Nunca usar create_order de Dropi.
+- Mercado: SOLO Colombia hasta enero de 2027. Otros países (México, Perú, España, EE. UU.) se evalúan en enero con las analíticas de audiencia por país.
+- Proveedores: Dropi y Tecnología Mayorista; Mastershop descartado; Alibaba/1688 fase 2; videojuegos solo originales y legales.
+- Pauta pagada desde el 1-dic; Mateo activa los anuncios (con Meta Ads solo leer/preparar). Sin réplicas de marcas.
